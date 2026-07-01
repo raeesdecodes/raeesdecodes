@@ -129,7 +129,7 @@ I enjoy creating products that solve real-world problems while sharing knowledge
 
 # 📂 Featured Projects
 
-> ⭐ *Pinned repositories will appear here automatically on your GitHub profile.*
+> ⭐ *Pinned repositories will appear here automatically.*
 
 <table>
 <tr>
@@ -165,9 +165,13 @@ I enjoy creating products that solve real-world problems while sharing knowledge
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raeesdecodes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raeesdecodes&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raeesdecodes&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raeesdecodes&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raeesdecodes&theme=tokyonight"/>
 
 </div>
 
@@ -222,11 +226,13 @@ I enjoy creating products that solve real-world problems while sharing knowledge
 <!--                  🚀 PART 3 START                       -->
 <!-- ===================================================== -->
 
-# 🏆 GitHub Achievements
+# 📈 Contribution Insights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=raeesdecodes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raeesdecodes&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raeesdecodes&theme=tokyonight&utcOffset=5"/>
 
 </div>
 
