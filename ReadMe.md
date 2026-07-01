@@ -374,10 +374,6 @@ I believe that consistent execution beats perfection. Every project is an opport
 ---
 
 # 🐍 Contribution Snake
-
-> ⚠️ **This image will NOT work immediately.**  
-> It requires a small GitHub Actions workflow to generate the snake animation automatically. This is normal and expected. :contentReference[oaicite:0]{index=0}
-
 ```md
 <p align="center">
 <img src="https://raw.githubusercontent.com/raeesdecodes/raeesdecodes/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
