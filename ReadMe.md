@@ -376,9 +376,9 @@ I believe that consistent execution beats perfection. Every project is an opport
 # 🐍 Contribution Snake
 
 
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/raeesdecodes/raeesdecodes/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-  
+  <img src="https://raw.githubusercontent.com/raeesdecodes/raeesdecodes/output/snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 
